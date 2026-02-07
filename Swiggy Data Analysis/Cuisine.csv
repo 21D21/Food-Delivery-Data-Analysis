@@ -1,0 +1,21 @@
+r_id,r_name,cuisine,address,city,state,zipcode,phone
+1,dominos,Italian,123 Main St,Anytown,CA,31312,333-4231
+2,kfc,American,433 Oak St,Anytown,CA,23432,342-4535
+3,box8,North Indian,St 457,Anytown,CA,12233,411-3453
+4,Dosa Plaza,South Indian,824 Oak St,Anytown,CA,23432,242-2311
+5,China Town,Chinese,983 Elm St,Anytown,CA,76676,434-6544
+6,Chilepotle,Chinese,856 Main St,Anytown,CA,31312,222-6456
+7,Burgur King,North Indian,334 Oak St,Anytown,CA,23432,422-3411
+8,Pizza Hut,Italian,St 459,Anytown,CA,35465,446-9879
+9,Papa John's,North Indian,976 Main St,Anytown,CA,31312,312-4345
+10,Dunkin Donuts,Italian,888 Main St,Anytown,CA,31312,341-9878
+11,Subway,Italian,126 Main St,Anytown,CA,31312,122-1334
+12,Wendy's,South Indian,828 Main St,Anytown,CA,31312,656-6567
+13,Panera Bread,Italian,866 Oak St,Anytown,CA,23432,353-2422
+14,Indian Plate,North Indian,324 Oak St,Anytown,CA,23432,123-4998
+15,Chienese Serving,Chinese,534 Elm St,Anytown,CA,76676,234-6768
+16,Sizzlers,South Indian,243 Elm St,Anytown,CA,76676,989-2422
+17,Baskin Robbins,Italian,233 Elm St,Anytown,CA,76676,123-5455
+18,Starbucks,American,222 Elm St,Anytown,CA,76676,123-5676
+19,Taco bell,Chinese,453 Elm St,Anytown,CA,76676,533-1432
+20,Dessert house,North Indian,456 Elm St,Anytown,CA,76676,655-3444
